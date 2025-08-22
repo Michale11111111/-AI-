@@ -1,3 +1,9 @@
+# 简介
+穿越火线实测可用，但是模型不好所以进行鼠标移动的时候效果不好，如果有兴趣可以自己修改模型，达到更好的效果，为自由而战，独裁者必亡！！！
+
+
+
+
 # ZBM Project
 
 This project contains files related to human detection and interception, likely for a system involving human interaction or control.
